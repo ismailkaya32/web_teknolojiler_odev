@@ -62,6 +62,30 @@ function App() {
       puan: 5,
       id: 1,
     },
+    {
+      baslik: "Web Teknolojileri",
+      url: "wwww.yandex.com.tr",
+      yazar: "İsmail KAYA",
+      yorum_sayisi: 2,
+      puan: 5,
+      id: 3,
+    },
+    {
+      baslik: "Siber Güvenlik",
+      url: "wwww.google.com.tr",
+      yazar: "İsmail Kaya",
+      yorum_sayisi: 2,
+      puan: 5,
+      id: 4,
+    },
+    {
+      baslik: "C#",
+      url: "wwww.google.com.tr",
+      yazar: "Engin Demiroğ",
+      yorum_sayisi: 2,
+      puan: 5,
+      id: 5,
+    },
   ];
   
   React.useEffect(()=>{
